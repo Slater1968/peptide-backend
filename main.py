@@ -53,6 +53,6 @@ async def ask_peptide_ai(request: QuestionRequest):
             ],
             temperature=0.2,
         )
-        return {"answer": response.choices.message.content}
+       return {"answer": response.choices[0].message.content}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
