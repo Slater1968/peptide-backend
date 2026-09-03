@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
 
-app = FastAPI()
+app = FastAPI(redirect_slashes=False)
 
 # 🛡️ Step A: Standard CORS Settings
 app.add_middleware(
