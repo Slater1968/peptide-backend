@@ -37,7 +37,12 @@ system_instruction = (
 class QuestionRequest(BaseModel):
     question: str
 
+@app.get("/")
+async def root():
+    return {"message": "Peptide Server is running perfectly! Please send POST requests to the /ask endpoint."}
+
 @app.post("/ask")
+@app.post("/ask/")
 async def ask_peptide_ai(request: QuestionRequest):
     try:
         response = client.chat.completions.create(
@@ -48,6 +53,6 @@ async def ask_peptide_ai(request: QuestionRequest):
             ],
             temperature=0.2,
         )
-        return {"answer": response.choices[0].message.content}
+        return {"answer": response.choices.message.content}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
