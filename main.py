@@ -1,9 +1,22 @@
 import os
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
 
 app = FastAPI()
+
+# ==========================================
+# 🛡️ FIX FOR CORS (CONNECTION FAILED ERROR)
+# ==========================================
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows your Flutter web app to connect
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows POST requests
+    allow_headers=["*"],
+)
+# ==========================================
 
 # This safely pulls your key from Render's hidden settings
 api_key = os.environ.get("OPENAI_API_KEY")
