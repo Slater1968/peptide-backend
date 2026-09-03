@@ -1,0 +1,918 @@
+Hormones & endocrine
+Insulin — lowers blood glucose by promoting glucose uptake and storage.
+Glucagon-like peptide-2 (GLP-2) — promotes intestinal growth and nutrient absorption.
+Exenatide — GLP-1 receptor agonist used for glucose control.
+Liraglutide — GLP-1 receptor agonist for diabetes/weight management.
+Lixisenatide — GLP-1 receptor agonist for type 2 diabetes.
+Dulaglutide — long-acting GLP-1 receptor agonist.
+Setmelanotide — melanocortin-4 receptor agonist for certain genetic forms of obesity.
+Pramlintide — amylin analogue that reduces food intake and slows gastric emptying.
+Terlipressin — vasopressin analogue causing blood-vessel constriction.
+Desmopressin — vasopressin analogue used for certain bleeding and water-balance disorders.
+Vasopressin — regulates water retention and vascular tone.
+Oxytocin — stimulates uterine contraction and milk ejection.
+Carbetocin — long-acting oxytocin analogue used to prevent postpartum haemorrhage.
+Taltirelin — thyrotropin-releasing-hormone analogue studied/used for neurological disorders in some countries.
+Lanreotide — somatostatin analogue suppressing several hormones.
+Octreotide — somatostatin analogue used for hormone-secreting disorders and some tumours.
+Pasireotide — somatostatin-receptor agonist used for certain pituitary disorders.
+Buserelin — GnRH agonist affecting reproductive hormone production.
+Leuprolide — GnRH agonist used in prostate cancer and reproductive disorders.
+Goserelin — GnRH agonist suppressing sex-hormone production.
+Histrelin — long-acting GnRH agonist.
+Nafarelin — GnRH agonist.
+Triptorelin — GnRH agonist used to suppress reproductive hormones.
+Fertirelin — GnRH analogue investigated/used for reproductive applications.
+Gonadorelin — synthetic GnRH used diagnostically and therapeutically.
+Follitropin alfa — recombinant FSH stimulating ovarian/testicular function.
+Lutropin alfa — recombinant LH supporting reproductive function.
+Menotropins — FSH/LH preparation used in fertility treatment.
+Corifollitropin alfa — long-acting FSH analogue.
+Pegvisomant — growth-hormone receptor antagonist that lowers IGF-1.
+Bone & calcium
+Teriparatide — PTH fragment stimulating bone formation.
+Abaloparatide — PTH-related peptide analogue promoting bone formation.
+Calcitonin — lowers blood calcium and reduces bone resorption.
+Etelcalcetide — calcimimetic peptide used for secondary hyperparathyroidism.
+Romosozumab — technically an antibody rather than a peptide; blocks sclerostin and increases bone formation.
+PTH(1–34) — biologically active N-terminal fragment of parathyroid hormone.
+PTH(1–84) — full-length parathyroid hormone used for hypoparathyroidism.
+Cardiovascular / kidney
+Nesiritide — recombinant BNP; promotes vasodilation and sodium excretion.
+Ularitide — natriuretic peptide investigated for acute heart failure.
+Cenderitide — natriuretic peptide designed to affect kidney/cardiovascular signalling.
+Angiotensin II — powerful vasoconstrictor involved in blood-pressure regulation.
+Icatibant — bradykinin B2-receptor antagonist used for hereditary angioedema.
+Ecallantide — kallikrein inhibitor used for hereditary angioedema.
+Vatreptacog alfa — engineered coagulation-factor peptide/protein studied for haemophilia.
+Dornase alfa — recombinant DNase enzyme used to reduce mucus viscosity in cystic fibrosis; technically a protein rather than a simple peptide.
+Gastrointestinal
+Linaclotide — activates intestinal guanylate cyclase-C to increase fluid secretion and bowel movements.
+Plecanatide — guanylate cyclase-C agonist for constipation.
+Teduglutide — GLP-2 analogue improving intestinal absorption.
+Apraglutide — long-acting GLP-2 analogue investigated for intestinal failure.
+Relamorelin — ghrelin-receptor agonist investigated for gastrointestinal motility.
+Prucalopride — serotonin 5-HT4 agonist; not a peptide, but sometimes appears in peptide-adjacent lists.
+Motilin — gut peptide stimulating gastrointestinal motility.
+Gastrin — stimulates gastric acid secretion and gastrointestinal growth.
+Secretin — stimulates pancreatic bicarbonate secretion.
+Cholecystokinin (CCK) — promotes digestion and contributes to satiety.
+Neurotensin — regulates gastrointestinal motility and signalling.
+GIP — incretin hormone affecting insulin secretion and metabolism.
+PYY(3–36) — gut-derived satiety signal.
+Oxyntomodulin — gut peptide affecting appetite and energy expenditure.
+Pancreatic polypeptide — regulates appetite and pancreatic/GI activity.
+Neurological / pain
+Ziconotide — blocks N-type calcium channels and is used for severe chronic pain.
+Enfuvirtide — HIV fusion inhibitor.
+Nerve growth factor (NGF) — neurotrophic signalling molecule involved in neuronal growth and pain.
+Brain-derived neurotrophic factor (BDNF) — supports neuronal survival and plasticity.
+Neurotensin — neuromodulatory peptide involved in pain, dopamine and GI signalling.
+Substance P — neurotransmitter involved particularly in pain and inflammation.
+Neurokinin A — tachykinin involved in neuronal and smooth-muscle signalling.
+Neurokinin B — involved in reproductive hormone regulation.
+PACAP — neuropeptide involved in neuronal signalling and vasodilation.
+VIP (vasoactive intestinal peptide) — vasodilatory and neuromodulatory peptide.
+CGRP — potent vasodilator involved in migraine biology.
+Calcitonin gene-related peptide antagonists — target CGRP signalling for migraine treatment; several modern drugs are small molecules or antibodies rather than peptides.
+Dermorphin — opioid peptide investigated experimentally for analgesia.
+Deltorphin — potent delta-opioid peptide studied experimentally.
+Dynorphin — endogenous opioid peptide acting mainly at κ-opioid receptors.
+Endorphins — endogenous opioid peptides involved in pain and reward.
+Enkephalins — endogenous opioid peptides involved in pain modulation.
+Immune / inflammatory
+Interferon beta-1a — immune-modulating protein used in multiple sclerosis.
+Interferon beta-1b — immune-modulating protein used in multiple sclerosis.
+Interferon gamma — activates immune cells and is used for specific immune deficiencies.
+Thymopentin — thymic peptide investigated for immune modulation.
+Thymostimulin — thymic peptide preparation studied for immune function.
+Tuftsin — immune-modulating peptide derived from immunoglobulin.
+Lactoferricin — antimicrobial peptide fragment of lactoferrin.
+Histatin-5 — salivary antimicrobial peptide.
+Plectasin — antimicrobial peptide investigated against Gram-positive bacteria.
+Omiganan — synthetic antimicrobial peptide investigated for infection prevention.
+Iseganan — antimicrobial peptide investigated for oral/mucosal infections.
+P113 — histatin-derived antimicrobial peptide.
+Magainin — frog-derived antimicrobial peptide family.
+Melittin — major bioactive peptide in bee venom; investigated for antimicrobial and anticancer effects.
+Nisin — antimicrobial peptide used as a food preservative and investigated therapeutically.
+Gramicidin — antimicrobial peptide used topically.
+Polymyxin B — antimicrobial peptide antibiotic targeting bacterial membranes.
+Colistin — polymyxin antibiotic used against certain resistant Gram-negative bacteria.
+Daptomycin — cyclic lipopeptide antibiotic disrupting bacterial membranes.
+Dalbavancin — lipoglycopeptide antibiotic.
+Oritavancin — long-acting lipoglycopeptide antibiotic.
+Telavancin — lipoglycopeptide antibiotic.
+Cancer / targeted therapeutics
+Mifamurtide — immune-stimulating peptide-based drug used in osteosarcoma treatment in some jurisdictions.
+Carfilzomib — peptide-derived proteasome inhibitor used in multiple myeloma.
+Bortezomib — boronic-acid-containing peptide-like proteasome inhibitor.
+Ixazomib — oral proteasome inhibitor with a peptide-derived pharmacophore.
+Lutetium-177 DOTATATE — somatostatin-receptor-targeted radioligand used for certain neuroendocrine tumours.
+Gallium-68 DOTATATE — somatostatin-receptor-targeted diagnostic imaging agent.
+Edotreotide — somatostatin analogue used in tumour imaging.
+Octreotide radioligand conjugates — target somatostatin receptors for tumour imaging/therapy.
+Pasireotide — somatostatin analogue also used in certain endocrine tumours.
+Degarelix — GnRH antagonist used to suppress testosterone in prostate cancer.
+Abarelix — GnRH antagonist formerly used for advanced prostate cancer.
+Leuprolide — GnRH agonist used in hormone-dependent cancers.
+Triptorelin — GnRH agonist used in hormone-dependent cancers.
+Goserelin — GnRH agonist used in prostate/breast cancer and reproductive medicine.
+Skin / cosmetic peptides
+Palmitoyl pentapeptide-4 — cosmetic peptide marketed for supporting collagen-related skin appearance.
+Palmitoyl tripeptide-1 — cosmetic peptide associated with extracellular-matrix signalling.
+Palmitoyl tetrapeptide-7 — cosmetic peptide used in anti-ageing formulations.
+Acetyl hexapeptide-8 (Argireline) — cosmetic peptide marketed for reducing appearance of expression lines.
+Copper tripeptide-1 — GHK-Cu form used in topical cosmetic formulations.
+Palmitoyl tripeptide-5 — cosmetic peptide associated with collagen signalling.
+Oligopeptide-1 (EGF) — epidermal-growth-factor peptide/protein used in some topical formulations.
+Oligopeptide-2 (IGF-related cosmetic peptide) — used in some cosmetic formulations.
+Acetyl tetrapeptide-5 — cosmetic peptide marketed for under-eye appearance.
+Dipeptide-2 — cosmetic ingredient used in eye-area products.
+Reproductive / sexual signalling
+Kisspeptin-10 — stimulates GnRH release and reproductive hormone signalling.
+Kisspeptin-54 — longer kisspeptin form involved in reproductive signalling.
+AMH (anti-Müllerian hormone) — regulates reproductive development; clinically used as a fertility-related biomarker.
+Inhibin A — regulates FSH secretion.
+Inhibin B — regulates FSH and is associated with reproductive function.
+Activin A — regulates reproductive, developmental and tissue processes.
+Activin B — signalling peptide involved in reproductive and tissue biology.
+GnRH — controls LH and FSH secretion.
+FSH — stimulates ovarian follicle development and spermatogenesis.
+LH — regulates ovulation and testosterone production.
+hCG — mimics LH and stimulates gonadal hormone production.
+Experimental / research compounds
+MOTS-c — mitochondrial-derived peptide investigated for metabolic regulation.
+Humanin — mitochondrial-derived peptide investigated for cellular protection and metabolism.
+Epitalon — experimental peptide investigated in ageing research.
+FOXO4-DRI — experimental peptide investigated for senescent-cell biology.
+SS-31 / elamipretide — mitochondria-targeting peptide investigated for mitochondrial dysfunction.
+ARA-290 — erythropoietin-derived peptide investigated for tissue-protective and neuropathic effects.
+Selank — synthetic peptide investigated mainly for anxiety/stress-related neurological effects.
+Semax — synthetic peptide investigated for neurological/cognitive effects.
+Dihexa — experimental compound investigated for neurotrophic signalling and cognition.
+Pinealon — experimental peptide investigated in ageing/neurological research.
+KPV — α-MSH-derived tripeptide investigated for inflammatory and intestinal effects.
+RADA16 — self-assembling peptide used experimentally as a biomaterial/scaffold.
+TAT peptide — cell-penetrating peptide used to transport molecules into cells.
+Penetratin — cell-penetrating peptide derived from Antennapedia.
+ALRN-6924 — stapled peptide designed to activate p53 by disrupting MDM2/MDMX interactions.
+P11-4 — self-assembling peptide investigated for dental enamel repair.
+Weight loss / metabolic peptides
+Peptide	What it does / is being studied for
+Semaglutide	GLP-1 receptor agonist; reduces appetite and body weight and improves glucose control
+Tirzepatide	GIP + GLP-1 agonist; appetite reduction, weight loss and glucose control
+Retatrutide (reta)	GIP + GLP-1 + glucagon agonist; being studied for substantial weight loss and metabolic effects
+Cagrilintide	Amylin analogue; reduces appetite and food intake
+Cagrilintide + semaglutide	Combines amylin and GLP-1 effects for weight management
+Survodutide	GLP-1 + glucagon agonist; being studied for obesity and metabolic/liver disease
+Mazdutide	GLP-1 + glucagon agonist; studied for obesity and metabolic disease
+Growth hormone / recovery-related peptides
+Peptide	Main thing it's studied for
+Sermorelin	Stimulates the body's own growth-hormone release
+CJC-1295	Growth-hormone-releasing hormone analogue; increases GH/IGF-1 signalling
+Ipamorelin	Growth-hormone secretagogue
+GHRP-2	Stimulates GH release
+GHRP-6	Stimulates GH release and can increase appetite
+Hexarelin	Potent GH secretagogue
+Tesamorelin	Increases GH; clinically used for reducing visceral abdominal fat in specific patients with HIV-associated lipodystrophy
+MK-677 / ibutamoren	Not technically a peptide; ghrelin-receptor agonist that increases GH/IGF-1 and appetite
+Tissue repair / injury-related peptides
+Peptide	What it's investigated for
+BPC-157	Experimental peptide investigated for tissue healing, gastrointestinal effects and tendon/muscle injury
+TB-500 / thymosin-β4-related compounds	Investigated for wound healing, angiogenesis and tissue repair
+Thymosin beta-4 (Tβ4)	Involved in cell migration and tissue repair; studied experimentally
+GHK-Cu	Copper-binding peptide studied for wound healing, skin regeneration and collagen-related processes
+Muscle / performance-related
+Peptide	What it's associated with
+IGF-1	Promotes anabolic signalling, cell growth and tissue development
+IGF-1 LR3	Modified IGF-1 analogue investigated experimentally for longer activity
+MGF / mechano-growth factor	IGF-1-related signalling associated with muscle/tissue response to mechanical stress
+Follistatin	Inhibits myostatin/activin signalling; investigated for increasing muscle growth
+PEG-MGF	Modified MGF research compound intended to have longer activity
+Skin / hair
+Peptide	What it's studied for
+GHK-Cu	Skin repair, collagen production and wound healing
+Copper peptides	Skin structure, collagen/elastin and wound-healing processes
+Melanotan I	Increases melanin production; related analogue afamelanotide has legitimate medical uses
+Melanotan II	Melanogenesis and tanning; also affects sexual function, but has significant safety concerns
+PT-141 / bremelanotide	Acts on melanocortin receptors and is used medically for certain sexual-function disorders
+Sexual function
+Peptide	Main effect
+Bremelanotide (PT-141)	Activates melanocortin receptors and can increase sexual desire/arousal
+Kisspeptin	Stimulates reproductive hormone signalling through the hypothalamic-pituitary-gonadal axis
+Oxytocin	Peptide hormone involved in social bonding, reproduction and uterine contraction
+Gut / digestive system
+Peptide	Main role
+GLP-1	Appetite regulation, insulin secretion and gastric-emptying regulation
+GIP	Incretin hormone affecting insulin secretion and energy metabolism
+Glucagon	Raises blood glucose and increases energy mobilisation
+Ghrelin	Increases hunger and stimulates GH release
+Amylin	Reduces food intake and slows gastric emptying
+PYY	Helps signal fullness after eating
+Immune / inflammatory research
+Peptide	What it's investigated for
+Thymosin alpha-1 (Tα1)	Immune modulation; studied in infections and immune disorders
+LL-37	Antimicrobial peptide involved in innate immunity and wound healing
+Defensins	Natural antimicrobial peptides forming part of the body's immune defence
+Longevity / mitochondrial research
+Peptide	Research focus
+MOTS-c	Mitochondrial-derived peptide investigated for metabolism and insulin sensitivity
+Humanin	Mitochondrial peptide investigated for cellular protection and metabolic effects
+Epitalon	Experimental peptide investigated in ageing-related research
+SS-31 / elamipretide	Mitochondrial-targeting peptide investigated for mitochondrial dysfunction
+FOXO4-DRI	Experimental senolytic research compound targeting senescent cells
+Other commonly discussed research peptides
+ARA-290 — investigated for tissue-protective and neuropathic-pain effects.
+Selank — investigated primarily for anxiety/stress-related effects.
+Semax — investigated for neurological/cognitive effects.
+Dihexa — experimental compound investigated for neuroplasticity; very limited human evidence.
+Pinealon — investigated in ageing/neurobiological research.
+Thymulin — immune/endocrine research.
+KPV — α-MSH-derived peptide investigated for inflammatory and intestinal effects.
+NAD-related peptides/compounds — investigated in cellular energy and ageing research, although many products marketed in this area aren't actually peptides.
+It works on three hormone receptors:
+
+GLP-1 → reduces appetite, slows stomach emptying, and improves blood-sugar control.
+GIP → affects appetite, insulin signalling and energy metabolism.
+Glucagon → increases energy expenditure and promotes fat breakdown.
+What people taking retatrutide have generally experienced in studies
+Significant weight loss — trials have shown substantial reductions in body weight over time.
+Reduced hunger and cravings
+Lower blood glucose and improved insulin sensitivity
+Reduced body fat, including visceral fat
+Potential improvements in some cardiovascular/metabolic markers.
+EIRE LABS — ADVANCED SUPPLEMENTS
+
+PEPTIDE NAME: Retatrutide
+Uses: Weight management, insulin resistance, muscle preservation during fat loss, appetite suppression
+Vial Size: 20mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 0.5mg–2ml
+Frequency: Once a week or microdose Bi-weekly
+Units on a 1ml Syringe: 5–20 units
+
+PEPTIDE NAME: Tirzepatide
+Uses: Weight management, insulin resistance, appetite suppression
+Vial Size: 20mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 2.5mg
+Frequency: Once a week or microdose Bi-weekly
+Units on a 1ml Syringe: 25 units
+
+PEPTIDE NAME: Carglinitide
+Uses: Appetite suppression
+Vial Size: 5mg
+Suggested Bac: 1ml
+Suggested Starting Dose: 0.1mg–0.25mg
+Frequency: Once a week or microdose Bi-weekly
+Units on a 1ml Syringe: 4–6 units
+
+PEPTIDE NAME: GHKCU
+Uses: Skin, hair, tissue repair, beauty, anti aging
+Vial Size: 50mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 2.5mg
+Frequency: Daily or every second day
+Units on a 1ml Syringe: 10 units
+
+PEPTIDE NAME: GHKCU
+Uses: Topical microneedling strength, fine lines, acne scars, pigmentation, scalp hair growth, stretch marks
+Vial Size: 100mg
+Suggested Bac: 10ml
+Suggested Starting Dose: Topical
+Frequency: Once a week
+Units: Apply thin layer with roller applicator, microneedle gently over area
+
+PEPTIDE NAME: GHKCU
+Uses: Skin, hair, tissue repair, beauty, anti aging
+Vial Size: 100mg
+Suggested Bac: 3ml
+Suggested Starting Dose: 2.5mg
+Frequency: Daily or every second day
+Units on a 1ml Syringe: 7.5 units
+
+PEPTIDE NAME: BPC159/TB500
+Uses: Inflammation, tissue repair
+Vial Size: 5/5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 0.25–0.5mg
+Frequency: Daily for 4 weeks then every other day
+Units on a 1ml Syringe: 10 units
+
+PEPTIDE NAME: MT2
+Uses: Tanning, enhanced libido & sexual function
+Vial Size: 10mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 100–250mcg
+Frequency: Daily until desired skin tone
+Units on a 1ml Syringe: 2–5 units
+
+PEPTIDE NAME: MT1
+Uses: Tanning & skin pigmentation enhancement
+Vial Size: 10mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 100–200mcg
+Frequency: Daily until desired skin tone
+Units on a 1ml Syringe: 2–5 units
+
+PEPTIDE NAME: MOTS-C
+Uses: Energy, performance, anti aging, endurance, cardiovascular
+Vial Size: 10mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 100mcg
+Frequency: Every day
+Units on a 1ml Syringe: 20 units
+
+PEPTIDE NAME: NAD+
+Uses: Anti aging, longevity, DNA repair, skin and muscle, brain health
+Vial Size: 500mg
+Suggested Bac: 10ml
+Suggested Starting Dose: 25mg
+Frequency: Daily / every other day
+Units on a 1ml Syringe: 50 units
+
+PEPTIDE NAME: SNAP-8
+Uses: Anti aging, Botox effects, hydration & skin texture
+Vial Size: 10mg
+Suggested Bac: 5ml
+Suggested Starting Dose: Topical use
+Frequency: Daily
+Units: Thin layer
+
+PEPTIDE NAME: KPV
+Uses: Anti inflammatory, gut health, wound healing, immune system
+Vial Size: 10mg
+Suggested Bac: 4ml
+Suggested Starting Dose: 250–500mcg
+Frequency: 1–2 times daily
+Units on a 1ml Syringe: 10 units
+
+PEPTIDE NAME: DSIP
+Uses: Sleep & recovery, stress regulation, anti anxiety, mood support
+Vial Size: 5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 250mcg
+Frequency: Nightly
+Units on a 1ml Syringe: 10 units
+
+PEPTIDE NAME: Semax
+Uses: Cognitive enhancement, mood support, recovery, mental fatigue reduction, work and study endurance
+Vial Size: 11mg
+Suggested Bac: 3ml
+Suggested Starting Dose: 100–200mcg
+Frequency: 1–2 times daily, morning
+Units on a 1ml Syringe: 4 units
+
+PEPTIDE NAME: Selank
+Uses: Attention, memory, mood & emotional regulation, immune & anti inflammatory properties
+Vial Size: 11mg
+Suggested Bac: 3ml
+Suggested Starting Dose: 100–500mcg
+Frequency: 1–2 times daily, evenings
+Units on a 1ml Syringe: 4 units
+
+PEPTIDE NAME: 5 Amino 1MG
+Uses: Fat loss & body composition, boosts cellular energy (NAD+), muscle retention, anti aging
+Vial Size: 50mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 5–10mg
+Frequency: Daily
+Units on a 1ml Syringe: 20 units
+
+PEPTIDE NAME: CJC1295 No DAC
+Uses: Boosts natural growth hormone, muscle recovery, fat metabolism, energy levels, sleep quality, increases lean muscle growth, accelerates fat loss
+Vial Size: 5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 100–200mcg
+Frequency: Morning fasted / and - or before bed
+Units on a 1ml Syringe: 4–8 units
+
+
+PEPTIDE NAME: HGH
+Uses: Increases lean muscle mass, reduces body fat, improves workout recovery, enhances strength and stamina, anti aging benefits, improves skin texture and elasticity, mood benefit, better libido and sexual performance
+Vial Size: 15iu
+Suggested Bac: 2ml
+Suggested Starting Dose: 1iu+
+Frequency: Once nightly before bed
+Units on a 1ml Syringe:
+7–40 units
+7 units beginner anti aging
+13 units fat loss and recovery
+26 units muscle gain
+40 united advance users
+
+
+PEPTIDE NAME: HGH
+Uses: Increases lean muscle mass, reduces body fat, improves workout recovery, enhances strength and stamina, anti aging benefits, improves skin texture and elasticity, mood benefit, better libido and sexual performance
+Vial Size: 24iu
+Suggested Bac: 3ml
+Suggested Starting Dose: 1iu+
+Frequency: Once nightly before bed
+Notes: At 3ml bac = 8iu per ml
+Units on a 1ml Syringe:
+7–40 units
+7 units beginner anti aging
+13 units fat loss and recovery
+26 units muscle gain
+40 united advance users
+
+PEPTIDE NAME: PT141
+Uses: Increases sexual desire, enhances arousal and pleasure, improves orgasm intensity, improves sexual interest in men
+Vial Size: 10mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 1mg
+Frequency: 30–60 minutes before activity
+Units on a 1ml Syringe: 20 units
+
+PEPTIDE NAME: Epithalon
+Uses: Anti-aging & longevity, improves sleep and melatonin regulation, immune system support, hormonal balance, muscle preservation, energy & stamina
+Vial Size: 10mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 0.5–1mg
+Frequency: Daily 10–20 days
+Units on a 1ml Syringe: 10–20 units
+
+PEPTIDE NAME: Tesamorelin
+Uses: Reduces visceral fat, improves body composition, supports metabolic health, enhances growth hormone secretion, better sleep patterns
+Vial Size: 5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 2mg
+Frequency: Once daily at night before bed
+Units on a 1ml Syringe: 50–80 units
+
+PEPTIDE NAME: Ipamorelin
+Uses: Improving training recovery, support muscle retention or gain, reduce body fat, improve sleep quality and supporting tissue repair
+Vial Size: 5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 200mcg
+Frequency: Once daily at night before bed
+Units on a 1ml Syringe: 8 units
+
+PEPTIDE NAME: SS-31
+Uses: Improves mitochondrial energy production, protects mitochondria, reduces oxidative stress, supports muscle recovery, and supports brain cell health
+Vial Size: 10mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 0.25–0.5mg
+Frequency: Daily
+Units on a 1ml Syringe: 5–10 units
+
+PEPTIDE NAME: Thymosin Alpha 1
+Uses: Immune modulation/support, adjunct in chronic viral infections, immune recovery after illness, reduction of inflammation/immune balance, vaccine response enhancement, autoimmune immune regulation, support during frequent infections, general immune resilience
+Vial Size: 5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 0.25–0.5mg
+Frequency: Daily
+Units on a 1ml Syringe: 5–10 units
+
+PEPTIDE NAME: B12
+Uses: Improved energy levels, support of red blood cell production, enhanced nerve function, support for cognitive and memory function, mood stabilization, reduced symptoms of anemia, support for DNA synthesis, cardiovascular support via homocysteine metabolism, improved focus and mental clarity, support of overall metabolic health
+Vial Size: 1mg/1ml
+Suggested Bac: 10ml
+Suggested Starting Dose: 500mcg–1000mcg
+Frequency: Twice per week for 4–8 weeks then monthly
+Units on a 1ml Syringe: 50–100 units
+
+PEPTIDE NAME: Kisspeptin
+Uses: Stimulates natural LH & FSH release; supports endogenous testosterone or estrogen production; helps preserve or restore fertility signaling; less suppressive than direct hormone replacement; may improve libido and sexual function; supports HPTA/HPO axis regulation; useful in recovery after hormone suppression; short-acting and physiologically upstream; lower risk of gonadal shutdown vs TRT; mimics natural GnRH pulse signaling
+Vial Size: 5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 50–100mcg
+Frequency: Daily 1–2 weeks on, 2–4 weeks off
+Units on a 1ml Syringe: 2–4 units
+
+PEPTIDE NAME: AOD 9604
+Uses: Promotes fat loss via lipolysis; targets stubborn adipose tissue; minimal effect on blood sugar or insulin; non-stimulatory (no jitters); does not significantly raise GH/IGF-1; low impact on appetite; generally well tolerated; can support body composition without hormonal suppression
+Vial Size: 5mg
+Suggested Bac: 2ml
+Suggested Starting Dose: 100–300mcg
+Frequency: Daily AM fasted
+Units on a 1ml Syringe: 4–12 units
+
+PEPTIDE NAME: Lipo-C + B12
+Uses: Supports fat metabolism; enhances liver function; increases energy via B-vitamins; aids methylation and lipid transport; may reduce fatigue and brain fog; supports weight-loss adherence without stimulant effects
+Vial Size: 121mg/ml
+Suggested Bac: —
+Suggested Starting Dose: 0.25ml–1ml
+Frequency: 1–3 times per week, 8–12 weeks cycle
+Units on a 1ml Syringe: 25–100 units
+
+PEPTIDE NAME: Oxytocin
+Uses: Enhances calm and relaxation; supports social bonding and emotional connection; may reduce stress and anxiety; can improve mood and sense of well-being; may help with appetite regulation; supports sexual satisfaction and intimacy; fast-acting and non-stimulatory
+Vial Size: 10mg
+Suggested Bac: 3ml
+Suggested Starting Dose: 50mcg / 0.025ml
+Frequency: As needed or 1–3x weekly; daily only short-term
+Units on a 1ml Syringe: 2.5 units
+
+PEPTIDE NAME: VIP 10mg
+Uses: Inflammation and immune regulation, lung function optimisation, digestive function, neuro effects
+Vial Size: 10mg
+Suggested Bac: Pre mixed total of 20ml
+Suggested Starting Dose: Nasal spray
+Frequency: Daily
+Units: 1–2 sprays each nostril
+
+PEPTIDE NAME: Glutathione 600mg
+Uses: Prevents oxidative stress, recycles antioxidants, liver detox, immune system function, cellular health and recovery
+Vial Size: 600mg
+Suggested Bac: 10ml
+Suggested Starting Dose: 75mg daily
+Frequency: AM daily
+Units on a 1ml Syringe: 125 units
+
+PEPTIDE NAME: L-Carnitine
+Uses: Fat metabolism and energy production, exercise recovery, reduced exercise muscle soreness, endurance support, male fertility support
+Vial Size: 600mg/1ml
+Suggested Bac: 10ml
+Suggested Starting Dose: 50mg+
+Frequency: 60 minutes before exercise
+Units on a 1ml Syringe: 83 units
+EIRE LABS — ADVANCED SUPPLEMENTS
+PRICE LIST
+
+PAGE 1
+
+WEIGHT LOSS & METABOLIC CONTROL
+
+• Retatrutide 10mg — PRICE €45
+• Retatrutide 20mg — PRICE €80
+• Retatrutide 30mg — PRICE €120
+• Tirzepatide 20mg — PRICE €80
+• Cagrilintide 5mg — PRICE €65
+• Tesamorelin 5mg — PRICE €20
+• 5-Amino-1MQ 5mg — PRICE €20
+• MOTS-C 10mg — PRICE €30
+• SS-31 10mg — PRICE €35
+• AOD9604 5mg — PRICE €30
+• LIPO-C + B12 121mg/ml 10ml — PRICE €25
+• L-Carnitine 600mg 10ml — PRICE €25
+• Cartalax 20mg — PRICE €45
+• ARA-290 10mg — PRICE €35
+• NAD+ 500mg — PRICE €45
+• Glow — PRICE €60
+• Lemon Bottle 10ml — PRICE €60
+
+
+MUSCLE GROWTH, PERFORMANCE & BODY RECOMPOSITION
+
+• HGH 24IU — PRICE €30
+• CJC-1295 (No DAC) 5mg — PRICE €18
+• Tesamorelin 5mg — PRICE €20
+• MOTS-C 10mg — PRICE €30
+• B12 1mg/ml 10ml — PRICE €22
+• Ipamorelin 5mg — PRICE €22
+• BPC-157 / TB-500 5mg/5mg — PRICE €38
+• L-Carnitine 600mg 10ml — PRICE €25
+• Cartalax 20mg — PRICE €45
+• ARA-290 10mg — PRICE €45
+• NAD+ 500mg — PRICE €45
+• Glow — PRICE €60
+
+
+RECOVERY, INJURY REPAIR & IMMUNE SUPPORT
+
+• BPC-157 / TB-500 10mg — PRICE €38
+• Thymosin Alpha-1 5mg — PRICE €25
+• KPV 10mg — PRICE €28
+• GHK-Cu 50mg — PRICE €38
+• GHK-Cu 100mg — PRICE €58
+• B12 1mg/ml 10ml — PRICE €20
+• AOD9604 5mg — PRICE €30
+• Glutathione 600mg — PRICE €45
+• VIP 10mg — PRICE €40
+• L-Carnitine 600mg 10ml — PRICE €25
+• Cartalax 20mg — PRICE €45
+• ARA-290 10mg — PRICE €35
+• NAD+ 500mg — PRICE €45
+• Glow — PRICE €60
+
+
+ANTI-AGING, LONGEVITY & CELLULAR HEALTH
+
+• Epithalon 10mg — PRICE €15
+• NAD+ 500mg — PRICE €45
+• SS-31 10mg — PRICE €20
+• MOTS-C 10mg — PRICE €30
+• Thymosin Alpha-1 5mg — PRICE €25
+• GHK-Cu 50mg — PRICE €38
+• GHK-Cu 100mg — PRICE €58
+• B12 1mg/ml 10ml — PRICE €20
+• Glutathione 600mg — PRICE €45
+• VIP 10mg — PRICE €40
+• Methylene Blue — PRICE €45
+• Glow — PRICE €60
+
+
+PAGE 2
+
+SEXUAL HEALTH, HORMONAL BALANCE & LIBIDO
+
+• PT-141 10mg — PRICE €25
+• Kisspeptin 5mg — PRICE €25
+• Oxytocin 10mg — PRICE €25
+• VIP 10mg — PRICE €40
+• HCG 2000IU — PRICE €20
+
+
+COGNITIVE FUNCTION, FOCUS & MOOD
+
+• Semax 10mg — PRICE €25
+• Selank 10mg — PRICE €25
+• B12 1mg/ml 10ml — PRICE €20
+• VIP 10mg — PRICE €40
+• Methylene Blue — PRICE €45
+• NAD+ 500mg — PRICE €45
+• Glow — PRICE €60
+
+
+SLEEP, STRESS & EMOTIONAL BALANCE
+
+• DSIP 5mg — PRICE €20
+• Oxytocin 10mg — PRICE €25
+• B12 1mg/ml 10ml — PRICE €15
+• VIP 10mg — PRICE €40
+• Methylene Blue — PRICE €45
+• NAD+ 500mg — PRICE €45
+• Glow — PRICE €60
+
+
+SKIN, HAIR & AESTHETIC ENHANCEMENT
+
+• GHK-Cu 50mg — PRICE €38
+• GHK-Cu 100mg — PRICE €58
+• Snap-8 10mg — PRICE €20
+• MT-2 10mg — PRICE €32
+• MT-1 10mg — PRICE €32
+• VIP 10mg — PRICE €40
+• Glow — PRICE €60
+
+
+GLOW & BRIGHTENING
+
+• Glow — PRICE €60
+
+
+NASAL SPRAYS
+
+• MT-2 10mg / 20ml — PRICE €45
+• MT-1 10mg / 20ml — PRICE €45
+• Semax 10mg / 20ml — PRICE €45
+• Selank 10mg / 20ml — PRICE €50
+
+
+CAPSULES
+
+• BPC-157 1000mcg — 60 capsules — PRICE €45
+
+
+MIXING AGENTS
+
+• Bac Water 5ml — PRICE €7
+• Bac Water 3ml — PRICE €5
+
+
+LEMON BOTTLE TREATMENT
+
+• Lemon Bottle 10ml — PRICE €60
+
+
+TOPICAL SKIN TREATMENTS
+
+• Copper Glow Cream 50ml — PRICE €25.00
+• GHKCU & Snap 8 Treatment Cream — PRICE €25
+• GHKCU & Snap 8 Serum — PRICE €25
+• Tretinoin Cream 0.025% — PRICE €30
+• Collagen Essence Peptide Vial 15ml
+(5 vials per set + free roller ball tube) — PRICE €35.00
+• Snake Venom Peptide Eye Cream — PRICE €25
+• SPF 90+ — PRICE €15
+• Collagen Gold Mask — PRICE €4.00
+• Mens Mask — PRICE €4.00
+• Aloe Vera Mask — PRICE €3.50
+• Hyaluronic Acid Essence +1% — PRICE €15
+• B5 Mask — PRICE €3.50
+• Snail Mask — PRICE €4.00
+• Caviar Mask — PRICE €4.00
+postage PRICE €10.00
+shipping PRICE €10.00
+
+shipping time is 1-5 buisness days
+
+PHOENIX
+ULTIMATE
+REHABILITATION STACK
+
+THE COMPLETE RECOVERY SOLUTION
+
+A powerful synergy of advanced research peptides designed to support tissue repair, joint health, immune balance & full body recovery.
+
+THE STACK
+BPC-157 + TB-500 BLEND
+
+Advanced Tissue Repair Complex
+
+ARA-290
+
+Nerve & Recovery Support Peptide
+
+CARTILEX
+
+Joint & Cartilage Support Complex
+
+THYMOSIN ALPHA-1 (TA-1)
+
+Immune Modulation Peptide
+
+VIP
+
+Anti-Inflammatory & Healing Peptide
+
+BENEFITS
+COMPLETE RECOVERY SUPPORT
+
+Head-to-toe rehabilitation for injuries & trauma.
+
+ADVANCED PEPTIDE SYNERGY
+
+Targets multiple pathways for superior results.
+
+PERFORMANCE & MOBILITY
+
+Get back stronger, faster & more resilient.
+
+REBUILD. RECOVER. RISE AGAIN.
+
+Because you were built to come back.
+
+COMPLETE RECOVERY.
+COMPLETE SUPPORT.
+
+REPAIR. RESTORE. REBUILD.
+RISE LIKE THE PHOENIX.
+
+PHOENIX STACK PRICE €175
+
+THE APHRODITE STACK
+THE ULTIMATE PEPTIDE STACK FOR
+
+SKIN, HAIR & TIMELESS BEAUTY
+
+WHAT'S INCLUDED
+
+GHK-CU 50MG
+INJECTABLE
+Injectable GHK-Cu peptide to support skin regeneration and overall skin quality.
+
+GHK-CU 100MG
+Topical GHK-Cu peptide to support collagen, elasticity and skin renewal.
+
+PEPTIDE ROLLER VIAL
+(FOR TOPICAL USE)
+Fill with GHK-Cu and roll directly onto the skin for enhanced absorption and results.
+
+SNAP-8 COMPLEX
+Topical peptide known for its smoothing effect on expression lines and fine wrinkles.
+
+HYALURONIC ACID SERUM CAPSULES
+Intense hydration to plump, smooth and revitalise the skin.
+
+FACE MASK
+Nourishing face mask to hydrate, refresh and reveal your natural glow.
+(Mask provided at random)
+
+INCLUDED
+Premium quality peptides
+Lab tested for purity
+THE POWERFUL BENEFITS OF THE APHRODITE STACK
+YOUTHFUL SKIN
+
+Supports collagen production and skin repair for a firmer, smoother complexion.
+
+REDUCES FINE LINES
+
+SNAP-8 helps soften expression lines and reduce the appearance of wrinkles.
+
+DEEP HYDRATION
+
+Hyaluronic Acid capsules deliver long-lasting hydration and plumpness.
+
+HEALTHY HAIR
+
+GHK-Cu and peptides support scalp health and encourage stronger, healthier hair.
+
+ANTIOXIDANT SUPPORT
+
+Helps protect against environmental stressors and supports overall skin health.
+
+CELLULAR RENEWAL
+
+Supports cell turnover to reveal brighter, smoother and more radiant skin.
+
+STRONGER NAILS
+
+Supports stronger, healthier-looking nails as part of overall beauty & wellness.
+
+RADIANCE & GLOW
+
+Reveals brighter, smoother and more radiant skin with every use.
+APHRODITE STACK PRICE €155
+
+THE GOD / GODDESS STACK
+THE ULTIMATE PEPTIDE SYNERGY FOR PEAK PERFORMANCE, BODY COMPOSITION, LONGEVITY & VITALITY.
+
+This elite combination of 6 powerful peptides works synergistically to target fat loss, muscle growth, recovery, cellular energy, anti-aging and overall optimization from the inside out.
+
+THE STACK
+RETATRUTIDE
+
+Next-level weight loss peptide that targets 3 pathways (GLP-1, GIP & Glucagon) for maximum fat loss, appetite control and metabolic optimization.
+
+TESAMORELIN
+
+Stimulates natural Growth Hormone (GH) release to reduce visceral fat, improve body composition and support recovery and sleep.
+
+IPAMORELIN
+
+A potent GH secretagogue that promotes deep, restorative sleep and enhances muscle growth, recovery and overall vitality.
+
+CJC-1295 (NO DAC)
+
+Extends and amplifies GH release for sustained benefits in fat loss, muscle growth, recovery and anti-aging.
+
+MOTS-C
+
+The “Metabolic Optimizer” that improves insulin sensitivity, increases energy expenditure and supports lean muscle & metabolic health.
+
+SS31
+
+A mitochondria-targeted peptide that protects cells from oxidative stress, supports longevity, recovery and overall cellular health.
+
+THE POWERFUL BENEFITS OF THE GOD / GODDESS STACK
+EXTREME FAT LOSS
+
+Retatrutide + Tesamorelin + MOTS-c supercharge fat loss while preserving lean muscle.
+
+LEAN MUSCLE GROWTH
+
+GH optimization from Tesamorelin, Ipamorelin & CJC-1295 fuels muscle growth and strength.
+
+INCREASED ENERGY
+
+MOTS-c boosts mitochondrial function for more energy, endurance and stamina.
+
+BETTER SLEEP & RECOVERY
+
+Ipamorelin promotes deep sleep while GH peptides accelerate recovery and repair.
+
+ANTI-AGING & LONGEVITY
+
+SS31 protects cells and mitochondria, slowing down aging and supporting cellular health.
+
+IMPROVED BODY COMPOSITION
+
+Reduce visceral fat, increase lean muscle and achieve a harder, more defined physique.
+
+ENHANCED MOOD & WELL-BEING
+
+Balanced hormones, better sleep and cellular health support mental clarity and mood.
+
+OVERALL OPTIMIZATION
+
+A complete inside-out upgrade for peak performance, health and longevity.
+
+TYPICAL STACKING PROTOCOL
+(EXAMPLE)
+
+RETATRUTIDE: 2 – 12mg per week
+TESAMORELIN: 2mg, 2x per day
+IPAMORELIN: 200 – 300mcg, 2 – 3x per day
+CJC-1295 (NO DAC): 250mcg, 1 – 2x per day
+MOTS-C: 10 – 20mg, 2 – 3x per week
+SS31: 5 – 10mg, daily
+
+Dosing can be adjusted based on individual goals and experience.
+Always consult a healthcare professional.
+
+WHY THIS STACK IS UNMATCHED
+
+Each peptide targets a different pathway, but together they create a powerful synergistic effect – optimizing hormones, metabolism, recovery, energy and cellular health for the ultimate transformation.
+
+6 PEPTIDES
+1 GOAL:
+
+BECOME THE BEST VERSION OF YOU.
+
+✓ PREMIUM QUALITY PEPTIDES
+✓ LAB TESTED FOR PURITY
+✓ RESEARCH USE ONLY
+✓ NOT FOR HUMAN CONSUMPTION
+✓ STORE CORRECTLY — KEEP REFRIGERATED
+
+GOD/GODDESS STACK PRICE €210 
+to order text 0857437723
+
+IMPORTANT NOTICE:
+For research purposes only.
+Not for human consumption.
+Products are sold as raw materials for laboratory or research use only.
