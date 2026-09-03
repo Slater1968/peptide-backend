@@ -6,23 +6,19 @@ from openai import OpenAI
 
 app = FastAPI()
 
-# ==========================================
-# 🛡️ FIX FOR CORS (CONNECTION FAILED ERROR)
-# ==========================================
+# 🛡️ CORS Middleware Setup
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows your Flutter web app to connect
+    allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["*"],  # Allows POST requests
+    allow_methods=["*"],
     allow_headers=["*"],
 )
-# ==========================================
 
-# This safely pulls your key from Render's hidden settings
+# Pull key safely from settings
 api_key = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=api_key)
 
-# Load your local knowledge file
 try:
     with open("peptide_info.txt", "r", encoding="utf-8") as file:
         peptide_knowledge = file.read()
@@ -53,6 +49,7 @@ async def ask_peptide_ai(request: QuestionRequest):
             ],
             temperature=0.2,
         )
-       return {"answer": response.choices[0].message.content}
+        # 🛠️ THE CORRECT FIX: Added [0] right after choices
+        return {"answer": response.choices[0].message.content}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
