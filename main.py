@@ -1,12 +1,12 @@
 import os
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
 
 app = FastAPI()
 
-# 🛡️ CORS Middleware Setup
+# 🛡️ Step A: Standard CORS Settings
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -14,6 +14,15 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# 🆕 Step B: Explicitly intercept and allow the browser's hidden OPTIONS checks
+@app.options("/{rest_of_path:path}")
+async def preflight_handler(request: Request, rest_of_path: str = ""):
+    response = Response()
+    response.headers["Access-Control-Allow-Origin"] = "*"
+    response.headers["Access-Control-Allow-Methods"] = "POST, GET, OPTIONS"
+    response.headers["Access-Control-Allow-Headers"] = "*"
+    return response
 
 # Pull key safely from settings
 api_key = os.environ.get("OPENAI_API_KEY")
@@ -35,7 +44,7 @@ class QuestionRequest(BaseModel):
 
 @app.get("/")
 async def root():
-    return {"message": "Peptide Server is running perfectly! Please send POST requests to the /ask endpoint."}
+    return {"message": "Peptide Server is running perfectly!"}
 
 @app.post("/ask")
 @app.post("/ask/")
@@ -49,7 +58,6 @@ async def ask_peptide_ai(request: QuestionRequest):
             ],
             temperature=0.2,
         )
-        # 🛠️ THE CORRECT FIX: Added [0] right after choices
         return {"answer": response.choices[0].message.content}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
